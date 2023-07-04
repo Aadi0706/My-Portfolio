@@ -35,24 +35,6 @@ function Header() {
       </div> */}
       <div className="avtar_img zoomIn">
       <img id="home_pic" src={require("../img/Profile pic.jpg")}></img>
-        {/* <iframe
-          height="300"
-          scrolling="no"
-          title="Untitled"
-          src="https://codepen.io/shilpashingnapure/embed/abEbROq?result"// src="https://cdpn.io/pen/debug/abEbROq?authentication_hash=yPkJjbdKGaEk"
-          frameBorder="no"
-          loading="lazy"
-          data-default-tab="result"
-          allowFullScreen={true}
-        >
-          See the Pen{" "}
-          <a href="https://codepen.io/shilpashingnapure/pen/abEbROq">
-            Untitled
-          </a>{" "}
-          by Shilpa Shingnapure (
-          <a href="https://codepen.io/shilpashingnapure">@shilpashingnapure</a>)
-          on <a href="https://codepen.io">CodePen</a>.
-        </iframe> */}
       </div>
     </div>
   );
