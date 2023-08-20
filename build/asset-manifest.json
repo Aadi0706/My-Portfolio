@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/My-Portfolio/static/css/main.349f4386.css",
-    "main.js": "/My-Portfolio/static/js/main.e067134c.js",
+    "main.js": "/My-Portfolio/static/js/main.d1174734.js",
     "static/js/787.e8c6061e.chunk.js": "/My-Portfolio/static/js/787.e8c6061e.chunk.js",
     "static/media/Licioius-front.gif": "/My-Portfolio/static/media/Licioius-front.5f59484123cb26510588.gif",
     "static/media/Licious-3rd.png": "/My-Portfolio/static/media/Licious-3rd.64d85dbd9639d5d0740f.png",
@@ -67,11 +67,11 @@
     "static/media/disqus.svg": "/My-Portfolio/static/media/disqus.68a393dacee038379239.svg",
     "static/media/github.svg": "/My-Portfolio/static/media/github.3bf6360dba57d181bf3b.svg",
     "main.349f4386.css.map": "/My-Portfolio/static/css/main.349f4386.css.map",
-    "main.e067134c.js.map": "/My-Portfolio/static/js/main.e067134c.js.map",
+    "main.d1174734.js.map": "/My-Portfolio/static/js/main.d1174734.js.map",
     "787.e8c6061e.chunk.js.map": "/My-Portfolio/static/js/787.e8c6061e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.349f4386.css",
-    "static/js/main.e067134c.js"
+    "static/js/main.d1174734.js"
   ]
 }
