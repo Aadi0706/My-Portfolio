@@ -1,0 +1,117 @@
+[
+  {
+    "project_id": "project1",
+    "images": [
+      "projects/youtube1.JPG",
+      "projects/youtube2.JPG",
+      "projects/youtube3.JPG"
+    ],
+    "tech_stack": ["tech/html_img.png", "tech/css.png"],
+    "project_title": "You Tube Clone",
+    "project_live": "https://shilpashingnapure.github.io/youtube-clone/",
+    "project_github": "https://github.com/shilpashingnapure/youtube-clone",
+    "projectDetails": "Clone of youtube.com using youtube API where user can watch and search videos."
+  },
+  {
+    "project_id": "project2",
+    "images": [
+      "projects/github1.JPG",
+      "projects/github2.JPG",
+      "projects/github3.JPG"
+    ],
+    "tech_stack": ["tech/html_img.png", "tech/css.png", "tech/js.jpg"],
+    "project_title": "Github Clone",
+    "project_live": "https://shilpashingnapure.github.io/Github-clone/",
+    "project_github": "https://github.com/shilpashingnapure/github-clone",
+    "projectDetails": "Clone of github.com using Github API user can search their profiles & Authorization."
+  },
+  {
+    "project_id": "project3",
+    "images": ["projects/disqus1.JPG", "projects/disqus2.JPG"],
+    "tech_stack": ["tech/html_img.png", "tech/css.png"],
+    "project_title": "Disqus Clone",
+    "project_live": "https://shilpashingnapure.github.io/Disqus-Clone/",
+    "project_github": "https://github.com/shilpashingnapure/Disqus-Clone",
+    "projectDetails": "Clone of Disqus.com i try to make simple frontend & resposive website."
+  },
+  {
+    "project_id": "project4",
+    "images": [
+      "projects/recipe1.JPG",
+      "projects/recipe2.JPG",
+      "projects/recipe3.JPG"
+    ],
+    "tech_stack": ["tech/html_img.png", "tech/css.png", "tech/js.jpg"],
+    "project_title": "Food Recipe App",
+    "project_live": "https://shilpashingnapure.github.io/Simple-recipe-Website/",
+    "project_github": "https://github.com/shilpashingnapure/Simple-recipe-Website",
+    "projectDetails": "Using themealdb API i try to make where user can search any type of food recepie and user friendly steps to understand."
+  },
+  {
+    "project_id": "project5",
+    "images": ["projects/weather.JPG"],
+    "tech_stack": ["tech/html_img.png", "tech/css.png", "tech/js.jpg"],
+    "project_title": "Weather App",
+    "project_live": "https://shilpashingnapure.github.io/simple-wheather-app/",
+    "project_github": "https://github.com/shilpashingnapure/simple-wheather-app",
+    "projectDetails": "It's Simple Weather APP using openweathermap API we can find any place temp, Map & coming forecast of weather."
+  },
+  {
+    "project_id": "project6",
+    "images": ["projects/codepen1.JPG", "projects/codepen2.JPG"],
+    "tech_stack": [
+      "tech/html_img.png",
+      "tech/css.png",
+      "tech/js.jpg",
+      "react-logo.svg"
+    ],
+    "project_title": "Codepen Clone",
+    "project_live": "https://pencode.netlify.app/",
+    "project_github": "https://github.com/shilpashingnapure/codepen-clone",
+    "projectDetails": "Clone of codepen.io here user can write html, css & Js code"
+  },
+  {
+    "project_id": "project7",
+    "images": [
+      "projects/movieapp1.JPG",
+      "projects/movieapp2.JPG",
+      "projects/movieapp3.JPG"
+    ],
+    "tech_stack": ["tech/html_img.png", "tech/css.png", "tech/js.jpg"],
+    "project_title": "Movie Search App",
+    "project_live": "https://shilpashingnapure.github.io/movie-search-app/",
+    "project_github": "https://github.com/shilpashingnapure/movie-search-app",
+    "projectDetails": "Movie Rating APP using themoviedb API we can search any movie. find information about movie release date, Imdb rating, etc."
+  },
+  {
+    "project_id": "project8",
+    "images": [
+      "projects/tommy1.JPG",
+      "projects/tommy2.JPG",
+      "projects/tommy3.JPG"
+    ],
+    "project_title": "Tommy Hifigher",
+    "tech_stack": [
+      "tech/html_img.png",
+      "tech/css.png",
+      "tech/js.jpg",
+      "react-logo.svg"
+    ],
+    "project_live": "https://tommyhilfigerclone.netlify.app/",
+    "project_github": "https://github.com/shilpashingnapure/Tommy-Hilfiger-clone",
+    "projectDetails": "Clone of TommyHilfiger.com i work on frontend & animation to gain more experience on Css & React."
+  },
+  {
+    "project_id": "project9",
+    "images": [
+      "projects/mcdonald1.JPG",
+      "projects/mcdonald2.JPG",
+      "projects/mcdonald3.JPG"
+    ],
+    "tech_stack": ["tech/html_img.png", "tech/css.png", "tech/js.jpg"],
+    "project_title": "McDonald's App",
+    "project_live": "https://shilpashingnapure.github.io/mc-donalds/",
+    "project_github": "https://github.com/shilpashingnapure/mc-donalds",
+    "projectDetails": "McDonald's order booking simple app."
+  }
+]
