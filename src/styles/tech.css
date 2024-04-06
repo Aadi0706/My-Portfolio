@@ -4,7 +4,7 @@
 .stack {
   display: flex;
   width: 85%;
-  margin: auto;
+  margin: left;
   justify-content: space-between;
   text-align: center;
   margin-top: 8%;
@@ -17,7 +17,7 @@
 .lib-fram {
   flex-basis: 40%;
 }
-.head{
+.head {
   text-decoration: underline;
 }
 .tech-list {
@@ -29,7 +29,8 @@
   gap: 4rem;
   /* flex-wrap: wrap; */
   justify-content: center;
-  margin-top: 9%;
+  /* margin-right: 10%; */
+  margin-top: 5%;
 }
 
 .tech {
