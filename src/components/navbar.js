@@ -71,7 +71,7 @@ function Navbar() {
         </div>
         <div className="cv">
           <a
-            href="https://drive.google.com/file/d/1qHmelfXOzwo6LI-ulv2c06vpJy3krFmN/view?usp=sharing"
+            href="https://drive.google.com/file/d/1-X2SYJ8xHyQmWKppgUx06QrxC9fG80G_/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#000" }}

@@ -13,7 +13,7 @@ function Header() {
           development skills based in Sagar, Madhya Pradesh.
         </p>
         <button className="btn fadeLeft">
-          <a className="btn_contact" href="https://drive.google.com/file/d/1kuDwi7APrLU4ntGtPs_iRAOowV3vnl-_/view?usp=sharing" target="_blank" style={{ color: "#000" }}>
+          <a className="btn_contact" href="https://drive.google.com/file/d/1-X2SYJ8xHyQmWKppgUx06QrxC9fG80G_/view?usp=sharing" target="_blank" style={{ color: "#000" }}>
             <p className="contact_btn_text">Resume</p>
             <img className="contact_btn_icon" src="https://www.svgrepo.com/show/266221/resume-portfolio.svg"
             width="20px"
