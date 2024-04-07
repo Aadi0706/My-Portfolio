@@ -30,7 +30,11 @@
   /* flex-wrap: wrap; */
   justify-content: left;
   /* margin-right: 10%; */
-  margin-top: 5%;
+  /* margin-top: 2%; */
+  position:relative;
+  left:-35px;
+
+
 }
 
 .tech {
