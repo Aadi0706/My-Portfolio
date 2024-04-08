@@ -40,12 +40,12 @@ function Toproject({ projectdata, description, techStack, imges, links }) {
               <span>Github</span>
             </a>
           </div>
-          <div className="btn--live">
+          {/* <div className="btn--live">
             <a href={links[2]} target="_blank" rel="noopener noreferrer">
               <img src={play} alt="" />
               <span>Demo</span>
             </a>
-          </div>
+          </div> */}
         </div>
       </div>
 

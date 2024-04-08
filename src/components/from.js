@@ -37,24 +37,32 @@ function Form() {
   return (
     <div className={turn ? "form form-face" : "form"}>
       <div className="form-side form-front">
-        <form id="form1" onSubmit={submitEmail}>
-          <label>Name:</label>
-          <input
+
+      <div className="contact">
+          <h2>Aditya Choubey</h2>
+          <h2>adityachoubey07@gmail.com</h2>
+          <h2>Mobile no.- 7509595467</h2>
+        </div>
+
+        {/* <form id="form1" onSubmit={submitEmail}> */}
+          {/* <label>Name:</label> */}
+          {/* <input
             type="text"
             placeholder="Name"
             name="name"
             onChange={Handler}
             value={formData.name}
-          />
-          <label>Email:</label>
+          /> */}
+      
+          {/* <label>Email:</label>
           <input
             type="text"
             placeholder="Email"
             name="email"
             onChange={Handler}
             value={formData.email}
-          />
-          <button
+          /> */}
+          {/* <button
             className="arrow-btn right--btn"
             onClick={(e) => {
               e.preventDefault();
@@ -62,8 +70,8 @@ function Form() {
             }}
           >
             <img src={icon} width="46px" height="46px" alt="" />
-          </button>
-        </form>
+          </button> */}
+        {/* </form> */}
       </div>
       <div className="form-side form-back">
         <textarea

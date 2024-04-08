@@ -16,6 +16,7 @@
   /* border: 1px solid #fff; */
   background-color: #212121;
   position: relative;
+  /* right:-105px; */
 }
 
 .footer__div > div:first-child {

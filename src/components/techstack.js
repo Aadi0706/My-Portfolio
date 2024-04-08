@@ -21,44 +21,44 @@ function TechStack() {
               <div className="tech">
                 <img src={require("../img/tech/html_img.png")} alt="" />
               </div>
-              <h2>HTML</h2>
+              <h2 className="heading_tag">HTML</h2>
             </div>
             <div>
               <div className="tech">
                 <img src={require("../img/tech/css.png")} alt="" />
               </div>
-              <h2>CSS</h2>
+              <h2 className="heading_tag">CSS</h2>
             </div>
             <div>
               <div className="tech">
                 <img src={require("../img/tech/js.jpg")} alt="" />
               </div>
-              <h2>JavaScript</h2>
+              <h2 className="heading_tag">JavaScript</h2>
             </div>
             {/* <br /> */}
             <div>
               <div className="tech">
                 <img src={react_logo} alt="" />
               </div>
-              <h2>React.js</h2>
+              <h2 className="heading_tag">React.js</h2>
             </div>
             <div>
               <div className="tech">
                 <img src={require("../img/tech/node.webp")} alt="" />
               </div>
-              <h2>Node.js</h2>
+              <h2 className="heading_tag">Node.js</h2>
             </div>
             <div>
               <div className="tech">
                 <img src={require("../img/tech/express.png")} alt="" />
               </div>
-              <h2>Express</h2>
+              <h2 className="heading_tag">Express</h2>
             </div>
             <div>
               <div className="tech">
                 <img src={require("../img/tech/mongo.png")} alt="" />
               </div>
-              <h2>MongoDB</h2>
+              <h2 className="heading_tag">MongoDB</h2>
             </div>
           </div>
         </div>

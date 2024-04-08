@@ -1,5 +1,7 @@
 import "../App.css";
 import { useState } from "react";
+import ResumeDoc from "../img/tech/AdityaChoubey-fw14_437.pdf"
+
 function Navbar() {
   const [toggle, settoggle] = useState(false);
   const [small, setsmall] = useState("");
@@ -46,14 +48,14 @@ function Navbar() {
             settoggle(!toggle);
           }}
         >
-          <a href="#about">About me</a>
+          <a href="#about">About</a>
         </div>
         <div
           onClick={() => {
             settoggle(!toggle);
           }}
         >
-          <a href="#tech">Tech stack</a>
+          <a href="#tech">Skills</a>
         </div>
         <div
           onClick={() => {
@@ -67,14 +69,15 @@ function Navbar() {
             settoggle(!toggle);
           }}
         >
-          <a href="#contact">Contact Me</a>
+          <a href="#contact">Contact</a>
         </div>
         <div className="cv">
           <a
-            href="https://drive.google.com/file/d/1-X2SYJ8xHyQmWKppgUx06QrxC9fG80G_/view?usp=sharing"
+            href={ResumeDoc}
             target="_blank"
             rel="noopener noreferrer"
             style={{ color: "#000" }}
+            download="Aditya_Choubey_Resume"
           >
             Resume
           </a>

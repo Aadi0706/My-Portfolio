@@ -57,8 +57,8 @@ function App() {
             imges={["Licioius-front.gif", "Licious-2nd.png", "Licious-3rd.png"]}
             links={[
               "https://the-licious-clone.netlify.app/",
-              "https://github.com/Aadi0706/first_project_Licious",
-              "https://drive.google.com/file/d/1kv49OOsf5xMyKa1MuZU3WRk_n6rbuv58/view",
+              "https://github.com/Aadi0706/first_project_Licious"
+              // "https://drive.google.com/file/d/1kv49OOsf5xMyKa1MuZU3WRk_n6rbuv58/view",
             ]}
           />
         </div>
